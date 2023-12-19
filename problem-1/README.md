@@ -5,8 +5,7 @@ Write a Python program to calculate the sum of all the elements in a list.
 <h1>Solution 1:</h1>
 
 <h2>Explanation:</h2>
-<h3>Approach: </h3>
-Using a predefined list.
+<h3>Approach: </h3>Using a predefined list.
 
 
 <h3>Steps:</h3>
