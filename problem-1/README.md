@@ -8,16 +8,11 @@
 
 
 <h3>Steps:</h3>
-
-Initialize a variable total to store the sum and set it to 0.
-Iterate through each element in list1.
-Add each element to the total variable.
-Print the total sum of elements.
-
-
 <li>Initialize a list list1 containing numeric elements.</li>
-<li>Tea</li>
-<li>Milk</li>
+<li>Initialize a variable total to store the sum and set it to 0.</li>
+<li>Iterate through each element in list1.</li>
+<li>Add each element to the total variable.</li>
+<li>Print the total sum of elements.</li>
 
 
 <h3>Solution Explanation: </h3>
