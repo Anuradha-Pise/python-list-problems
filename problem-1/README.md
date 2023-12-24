@@ -1,8 +1,7 @@
 <h1>Problem Statement:</h1>
-
 Write a Python program to calculate the sum of all the elements in a list.
 
-<h1>Solution 1:</h1>
+<h2>Solution 1:</h2>
 
 <h2>Explanation:</h2>
 <h3>Approach: </h3>Using a predefined list.
@@ -18,7 +17,8 @@ Print the total sum of elements.
 <h3>Solution Explanation: </h3>
 Utilizes a pre-defined list and iterates through its elements, adding them to a total variable to find the sum.
 
-<h1>Solution 2:</h1>
+<h2>Solution 2:</h2>
+
 <h2>Explanation:</h2>
 <h3>Approach: </h3>
 Dynamically taking input for the list.
