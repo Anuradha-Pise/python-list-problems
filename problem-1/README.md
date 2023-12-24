@@ -8,6 +8,7 @@
 
 
 <h3>Steps:</h3>
+
 <li>Initialize a list list1 containing numeric elements.</li>
 <li>Initialize a variable total to store the sum and set it to 0.</li>
 <li>Iterate through each element in list1.</li>
