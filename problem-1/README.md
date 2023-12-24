@@ -14,11 +14,10 @@ Iterate through each element in list1.
 Add each element to the total variable.
 Print the total sum of elements.
 
-<ul style="list-style-type:square;">
-  <li>Initialize a list list1 containing numeric elements.</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
+
+<li>Initialize a list list1 containing numeric elements.</li>
+<li>Tea</li>
+<li>Milk</li>
 
 
 <h3>Solution Explanation: </h3>
