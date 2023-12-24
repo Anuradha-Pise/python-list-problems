@@ -1,6 +1,6 @@
 <h1>Problem Statement:</h1>
-Write a Python program to calculate the sum of all the elements in a list.
-
+<b>Write a Python program to calculate the sum of all the elements in a list.
+</b>
 <h2>Solution 1:</h2>
 
 <h2>Explanation:</h2>
