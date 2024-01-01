@@ -21,8 +21,7 @@
   <ol>
     <li>Iterate through a loop based on the specified number of elements.</li>
     <li>Prompt the user to enter each element one by one and add it to the list.</li>
-  </ol>
-</li>
+  </ol></li>
 <li>Apply min() function: Use the min() function on the generated list.</li>
 <li>Retrieve the smallest number: Store the result of min() in a variable to retrieve the smallest number from the user-provided list.</li>
 
