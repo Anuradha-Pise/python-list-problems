@@ -19,8 +19,8 @@
 <li>Input the number of elements: Ask the user for the number of elements they want in the list.</li>
 <li>Collect user input for each element:
   <ol>
-    <li>1] Iterate through a loop based on the specified number of elements.</li>
-    <li>2] Prompt the user to enter each element one by one and add it to the list.</li>
+    <li>Iterate through a loop based on the specified number of elements.</li>
+    <li>Prompt the user to enter each element one by one and add it to the list.</li>
   </ol>
 </li>
 <li>Apply min() function: Use the min() function on the generated list.</li>
