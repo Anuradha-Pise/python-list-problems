@@ -18,8 +18,8 @@
 <h3>Steps :</h3>
 <li>Input the number of elements: Ask the user for the number of elements they want in the list.</li>
 <li>Collect user input for each element:
-  <ol>Iterate through a loop based on the specified number of elements.</ol>
-  <ol>Prompt the user to enter each element one by one and add it to the list.</ol>
+  <ol>1] Iterate through a loop based on the specified number of elements.</ol>
+  <ol>2] Prompt the user to enter each element one by one and add it to the list.</ol>
 </li>
 <li>Apply min() function: Use the min() function on the generated list.</li>
 <li>Retrieve the smallest number: Store the result of min() in a variable to retrieve the smallest number from the user-provided list.</li>
